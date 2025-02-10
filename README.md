@@ -4,6 +4,7 @@
     use fixed name for preview image
     user always must see actual preview version
         web server set caching http-headers: browser check if new version is available before using cache
+            https://requestmetrics.com/web-performance/http-caching/
 
 ## why
     I think fixed name for preview is more simple implementation 
